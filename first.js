@@ -5,6 +5,7 @@ console.log(header);
 
 const login = "Login page added";
 console.log(login);
+console.log("Login page added successfully");
 
 const footer = "Footer added in our website";
 console.log(footer);
