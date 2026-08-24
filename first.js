@@ -1,5 +1,7 @@
 const button = "Added a Button";
 console.log(button);
+const header = "Header added";
+console.log(header);
 
 const login = "Login page added";
 console.log(login);
