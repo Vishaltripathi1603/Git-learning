@@ -124,6 +124,9 @@ git branch -D branch-name (unmerged also)
 <!-- ESC :wq --> helpful(Escape the writing mode, save and quit)
 <!-- i: insert mode -->
 
+<!--git rebase branch name>
+
+<!--git rebase --continue>
 
 <!-- How to change the name of branch -->
 git branch -m <branch_name>
