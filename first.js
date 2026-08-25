@@ -25,3 +25,6 @@ console.log("buG B");
 
 
 console.log("iswhis");
+
+
+console.assert("sdbasj");
